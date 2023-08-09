@@ -1,0 +1,36 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    text-align: center;
+}
+
+.navbar {
+    display: inline-block;
+}
+.list ul span li {
+    list-style: none;
+}
+.list ul span li {
+    display: inline;
+    margin: 10px;
+}
+.logo {
+    width: 40px;
+    margin-right: 110px;
+}
+
+
+.logo img {
+    width:  100%;
+    display: inline;
+    border: solid;
+}
+
+.list ul {
+    list-style: none;
+}
